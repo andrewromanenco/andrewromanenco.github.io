@@ -24,9 +24,9 @@ is very simple functional language to demonstrate framework use case.
 
 #### <a href="https://github.com/andrewromanenco/brainfk" target="_blank" style="text-decoration: underline;">BrainF*ck interpreter and compiler</a>
 
-BrainF*ck implementation using the <a href="https://github.com/andrewromanenco/compilerframework" target="_blank" style="text-decoration: underline;">CompilerFramework</a>.
-It contains both interpreter and compiler. BrainF*ck code get compiled into
-java byte (.class) and is executable on any jvm.
+BrainF\*ck implementation using the <a href="https://github.com/andrewromanenco/compilerframework" target="_blank" style="text-decoration: underline;">CompilerFramework</a>.
+It contains both interpreter and compiler. BrainF\*ck code gets compiled into
+java byte code (.class) and is executable on any jvm.
 
 <br/>
 
