@@ -45,7 +45,7 @@ Now let's take a look into this process as developers! Find source for java.lang
 
 One more very important detail: what does it mean that a class is already loaded? To answer this question it makes sense to notice that an identification of a class at runtime is a combination of its class name and a classloader. So a class can be loaded by more than one classloader and (obviously) a class loader can load more than one class. To make sure all these combinations work at runtime, every time you access a class the jvm check if classes are compatible by checking both the class name and the classloader.
 
-Theory says: a classloader L who created a class C is it's defining loader. If L creates C directly or by delegating to its parent L is initiating loader for C. And jvm tracks combinations of classes and initiating loaders to define "same class". And, of course, this makes it possible to load the same class twice, but with different initiating classloader.
+Theory says: a classloader L who created a class C is it's defining loader. If L creates C directly or by delegating to its parent L is initiating loader for C. And jvm tracks combinations of class names and defining loaders to make "same class". And, of course, this makes it possible to load the same class twice, but with different defining classloader.
 
  It's interesting that developers definition for "same class" is different from jvm's one. For a developer same classes are (usually) those who have same name and same interface, but different behaviour or implementation.
 
@@ -86,4 +86,4 @@ Make sure you checked ant build script for the project. It has separate goal for
 
 ### Final notes
 
-Many java containers work very similar to the example from above. For example tomcat. When you deploy your app into webapp folder, your code is outside of tomcat classpath. Tomcat creates new classloader and points it to your webapp. And the entire process works as described above. When you redeploy your app, tomcat just deletes current classloader and creates new one, so new versions of your classes are read.
+Many java containers work very similar to the code from above. For example tomcat. When you deploy your app into webapp folder, your code is outside of tomcat classpath. Tomcat creates new classloader and points it to your webapp. And the entire process works as described above. When you redeploy your app, tomcat just deletes current classloader and creates new one, so new versions of your classes are read.
