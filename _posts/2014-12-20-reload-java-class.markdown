@@ -2,7 +2,7 @@
 layout: post
 title:  "Reload a java class at runtime"
 date:   2014-12-20
-categories: java jvm classloaders
+tags: [java, jvm]
 ---
 
  * [What a classloader is](#1)

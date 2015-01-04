@@ -2,9 +2,17 @@
 layout: default
 ---
 <div class="post">
+  <div style="text-align: right">
+  </div>
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+        {% if page.tags.size > 0 %}
+            {% for tag in page.tags %}
+             <a href="{{ site.baseurl }}/tag/{{tag}}/"><i>{{tag}}</i></a>{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+         {% endif %}
+    </p>
   </header>
 
   <article class="post-content">

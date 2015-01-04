@@ -2,7 +2,7 @@
 layout: post
 title:  "Managing transactions with Spring"
 date:   2014-12-30
-categories: java spring transactions
+tags: [java, spring]
 ---
 
 Here is how one can configure transaction management in a java application with
