@@ -22,7 +22,7 @@ Source code for this post available <a href="https://github.com/andrewromanenco/
 
 ### Brute force solution
 
-Recursion is good starting point for brute force solution. If we are in position i, we know which positions to the right are reachable with additional jump. Same rule applies to those right positions as well.
+Recursion is a good starting point for brute force solution. If we are in position i, we know which positions to the right are reachable with one additional jump. Same rule applies to those right positions as well.
 
 {% highlight java %}
 public class MinJumpsBF {
@@ -47,6 +47,8 @@ public class MinJumpsBF {
 
 }
 {% endhighlight %}
+
+Running the code on small input works, but with longer array there is significant delay. After tracing the code, it's easy to see that we call jump(array, index) many times for the same value of index. Caching should help us.
 
 ### Top-down with memoization
 
@@ -80,7 +82,12 @@ public class MinJumpsTD {
 }
 {% endhighlight %}
 
+As usual, the only change we made is to have a cache and use that cache instead of recalculation information already known.
+
 ### Bottom-up solution
+
+Tracing how the cache is filled in, we can replicate the process by bottom up approach. Last element of the cache is zero - this is our destination. Bottom up algorithm fills the cache in right-to-left direction, using data calculated earlier. And the result is in cache[0].
+
 {% highlight java %}
 public class MinJumpsBU {
 
@@ -103,6 +110,14 @@ public class MinJumpsBU {
 
 }
 {% endhighlight %}
+
+This solution works. But check out test cases. It's kind of slow for longer inputs. The reason is in O(n^2) running time for DP algorithm (you should make small change to the code from above to guarantee this estimate).
+
+### DP is not always the best solution
+
+DP is amazing method for solving specific problems. But the downside is that DP is an exchange of memory-to-time; and DP does not make any other optimizations.
+
+This specific problem is solvable in linear time; by tracking longest reachable element and making smart decision when we increase number of steps.
 
 {% highlight java %}
 public class MinJumpsLinear {
@@ -131,3 +146,5 @@ public class MinJumpsLinear {
 
 }
 {% endhighlight %}
+
+Bottom line: DP works well for this problem, comparing to brute force solution. But it always possible that more optimal approaches exist.
