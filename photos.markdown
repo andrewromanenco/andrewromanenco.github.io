@@ -3,6 +3,38 @@ layout: page
 title: Photos
 permalink: /photos/
 ---
+### Chile
+
+- <a href="https://photos.app.goo.gl/XxdCeDuQkE8LJNDW9" target="_blank">Highlights</a><br/>
+
+#### - Central Chile
+
+- <a href="https://photos.app.goo.gl/BFCADYu6zarpnJhR7" target="_blank">Santiago</a><br/>
+- <b><a href="https://photos.app.goo.gl/oqdH97Wqsgasxpju5" target="_blank">Valparaiso</a></b><br/>
+
+#### - Atacama desert
+
+- <b><a href="https://photos.app.goo.gl/i7znDx9BiKbHZDiS7" target="_blank">Mano del Desierto</a></b><br/>
+- <a href="https://photos.app.goo.gl/8kCsd9PV8GiWQ31UA" target="_blank">Antofagasta</a><br/>
+- <b><a href="https://photos.app.goo.gl/ozobgkrcNc7VqSE38" target="_blank">La Portada</a></b><br/>
+- <a href="https://photos.app.goo.gl/r9BYPfMndu3VPCw56" target="_blank">Pan American Highway</a><br/>
+- <b><a href="https://photos.app.goo.gl/wHLBQ8b9MU99oVEs8" target="_blank">El Tatio geysers</a></b><br/>
+- <a href="https://photos.app.goo.gl/7ZwBtqfKeMKeDnbS9" target="_blank">San Pedro de Atacama</a><br/>
+- <b><a href="https://photos.app.goo.gl/MdaCw6Vc5yWaVqWZ8" target="_blank">Valle de la Luna</a></b><br/>
+- <a href="https://photos.app.goo.gl/Gh8kbLSCm6pcmqk18" target="_blank">Valle de la Muerte</a><br/>
+- <a href="https://photos.app.goo.gl/nnfQAKgCjyT8Le6J8" target="_blank">Laguna Cejar</a><br/>
+- <a href="https://photos.app.goo.gl/r3fRZ58GNSqoEi6C6" target="_blank">Valle de Jere</a><br/>
+- <b><a href="https://photos.app.goo.gl/eDamd6K6eEKcYzyN9" target="_blank">Los Flamencos</a></b><br/>
+- <a href="https://photos.app.goo.gl/iPgYEVdpd8BvsqxYA" target="_blank">ALMA Observatory</a><br/>
+
+#### - Patagonia (Torres del Paine W trek)
+
+- <a href="https://photos.app.goo.gl/w2LCfRhzYCjDk4Cf7" target="_blank">Puerto Natales</a><br/>
+- <b><a href="https://photos.app.goo.gl/pZVR3kKqe7mCGGzk6" target="_blank">Glacier Grey</a></b><br/>
+- <b><a href="https://photos.app.goo.gl/12AdJY3Nim9zSLfX6" target="_blank">French Valley</a></b><br/>
+- <a href="https://photos.app.goo.gl/NqZii1gBTHYtnvTn6" target="_blank">Nordenskjöld Lake</a><br/>
+- <b><a href="https://photos.app.goo.gl/epgk7kCBoJH2NBN4A" target="_blank">Torres del Paine</a></b><br/>
+- <a href="https://photos.app.goo.gl/9G8GtkCFUDvfqmq9A" target="_blank">Punta Arenas (Strait of Magellan)</a><br/>
 
 ### Hawaii
 
