@@ -3,6 +3,11 @@ layout: page
 title: Photos
 permalink: /photos/
 ---
+
+<a href="https://photos.app.goo.gl/vNvfdtiSAFyUyjwi9" target="_blank">Mont Tremblant ski trip 2019, Canada</a><br/>
+<a href="https://photos.app.goo.gl/tHLK7gUhZZT9bmis9" target="_blank">Revelstoke ski trip 2019, Canada</a><br/>
+<br/><br/>
+
 ### Chile
 
 - <a href="https://photos.app.goo.gl/XxdCeDuQkE8LJNDW9" target="_blank">Highlights</a><br/>
