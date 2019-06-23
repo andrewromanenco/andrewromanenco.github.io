@@ -4,6 +4,19 @@ title: Photos
 permalink: /photos/
 ---
 
+### Iceland
+
+- <a href="https://photos.app.goo.gl/sqg9eEwLZknZp5pp8" target="_blank">Highlights</a><br/>
+- <b><a href="https://photos.app.goo.gl/yUa2vpV2Y9w6huPb9" target="_blank">Laugavegur Trail</a></b><br/>
+- <a href="https://photos.app.goo.gl/VMzbcbw32iGLZZ4v5" target="_blank">DC-3 Plane Crash Site</a><br/>
+- <a href="https://photos.app.goo.gl/z3jQNVCwfonKWs3m6" target="_blank">Jokulsarlon Glacier Lagoon</a><br/>
+- <a href="https://photos.app.goo.gl/fysioapgJkUUeFz5A" target="_blank">Dettifoss and Selfoss</a><br/>
+- <a href="https://photos.app.goo.gl/djERHB7gxZkcXY1R6" target="_blank">Asbyrgi</a><br/>
+- <a href="https://photos.app.goo.gl/XwPydFY125kA7Jdq7" target="_blank">Waterfalls: Seljalandsfoss, Skógafoss and Goðafoss</a><br/>
+- <a href="https://photos.app.goo.gl/L5nLvQ1364jkb5Md8" target="_blank">Reykjavik</a><br/>
+- <a href="https://photos.app.goo.gl/tCBetwwvKG4hdyTC7" target="_blank">Ring road</a><br/>
+<br/><br/>
+
 <a href="https://photos.app.goo.gl/Tyb26J4mHTzYsYkz6" target="_blank">Massasauga provincial park, May 2019</a><br/>
 <a href="https://photos.app.goo.gl/vNvfdtiSAFyUyjwi9" target="_blank">Mont Tremblant ski trip 2019, Canada</a><br/>
 <a href="https://photos.app.goo.gl/tHLK7gUhZZT9bmis9" target="_blank">Revelstoke ski trip 2019, Canada</a><br/>
