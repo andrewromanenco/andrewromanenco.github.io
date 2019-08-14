@@ -4,6 +4,8 @@ title: Photos
 permalink: /photos/
 ---
 
+<a href="https://photos.app.goo.gl/mwgSHh4qFePm7ynF6" target="_blank">Biking around Manhattan</a><br/>
+
 ### Iceland
 
 - <a href="https://photos.app.goo.gl/sqg9eEwLZknZp5pp8" target="_blank">Highlights</a><br/>
