@@ -4,6 +4,7 @@ title: Photos
 permalink: /photos/
 ---
 
+<a href="https://photos.app.goo.gl/wVxBRPN89asYbsY47" target="_blank">Bills vs Broncos, NFL</a><br/>
 <a href="https://photos.app.goo.gl/mwgSHh4qFePm7ynF6" target="_blank">Biking around Manhattan</a><br/>
 
 ### Iceland
