@@ -5,10 +5,10 @@ permalink: /photos/
 ---
 
 ### California trip
-<a href="https://photos.app.goo.gl/aNiVB6FuPtkYKh8T8" target="_blank">San Francisco, USA</a><br/>
-<a href="https://photos.app.goo.gl/i1UXb3aLwW6JbGHi7" target="_blank">Golden Gate Bridge, SF, USA</a><br/>
-<a href="https://photos.app.goo.gl/k4H8D2rNbWMAv9Zj6" target="_blank">Stanford University, CA, USA</a><br/>
-<a href="https://photos.app.goo.gl/TU9ABtmkJVz1QfKD8" target="_blank">Silicon Valley, USA</a><br/>
+- <a href="https://photos.app.goo.gl/aNiVB6FuPtkYKh8T8" target="_blank">San Francisco, USA</a><br/>
+- <a href="https://photos.app.goo.gl/i1UXb3aLwW6JbGHi7" target="_blank">Golden Gate Bridge, SF, USA</a><br/>
+- <a href="https://photos.app.goo.gl/k4H8D2rNbWMAv9Zj6" target="_blank">Stanford University, CA, USA</a><br/>
+- <a href="https://photos.app.goo.gl/TU9ABtmkJVz1QfKD8" target="_blank">Silicon Valley, USA</a><br/>
 <br/><br/>
 <a href="https://photos.app.goo.gl/5UUZYjpKvWK6gyjp8" target="_blank">Yamnuska Wolfdog Sanctuary, AL, CA</a><br/>
 <a href="https://photos.app.goo.gl/hUiN6mB5w9rH3Hx4A" target="_blank">Lake Louise, AB, CA</a><br/>
