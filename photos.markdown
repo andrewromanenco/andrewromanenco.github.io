@@ -4,6 +4,13 @@ title: Photos
 permalink: /photos/
 ---
 
+### USA, November 2020
+- <a href="https://photos.google.com/album/AF1QipMs73sl7Z_e7KdtUMgNoOIf-fUUBdUbweV-pyey" target="_blank">Cottonwood mountains, Death Valley</a><br/>
+- <a href="https://photos.google.com/album/AF1QipNRWTz-JgOhMKZv9_MJF5hMdUrgIs9VgrQBvteg" target="_blank">Darwin falls, Death Valley</a><br/>
+- <a href="https://photos.google.com/album/AF1QipM9BIhqdeId34tXfPtHHz_GjuW1WY_0P0LU4M58" target="_blank">Grand canyon, AZ</a><br/>
+- <a href="https://photos.google.com/album/AF1QipMAVjF6_gbz_tuoMk1y9ZHDfH8VHUkifST7IwRd" target="_blank">Hoover Dam</a><br/>
+<br/><br/>
+
 ### California trip
 - <a href="https://photos.app.goo.gl/aNiVB6FuPtkYKh8T8" target="_blank">San Francisco, USA</a><br/>
 - <a href="https://photos.app.goo.gl/i1UXb3aLwW6JbGHi7" target="_blank">Golden Gate Bridge, SF, USA</a><br/>
