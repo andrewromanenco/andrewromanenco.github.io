@@ -5,10 +5,10 @@ permalink: /photos/
 ---
 
 ### USA, November 2020
-- <a href="https://photos.google.com/album/AF1QipMs73sl7Z_e7KdtUMgNoOIf-fUUBdUbweV-pyey" target="_blank">Cottonwood mountains, Death Valley</a><br/>
-- <a href="https://photos.google.com/album/AF1QipNRWTz-JgOhMKZv9_MJF5hMdUrgIs9VgrQBvteg" target="_blank">Darwin falls, Death Valley</a><br/>
-- <a href="https://photos.google.com/album/AF1QipM9BIhqdeId34tXfPtHHz_GjuW1WY_0P0LU4M58" target="_blank">Grand canyon, AZ</a><br/>
-- <a href="https://photos.google.com/album/AF1QipMAVjF6_gbz_tuoMk1y9ZHDfH8VHUkifST7IwRd" target="_blank">Hoover Dam</a><br/>
+- <a href="https://photos.app.goo.gl/Vv4EPaY3RmACKjyh9" target="_blank">Cottonwood mountains, Death Valley</a><br/>
+- <a href="https://photos.app.goo.gl/PExxN98G4iT31eZQ6" target="_blank">Darwin falls, Death Valley</a><br/>
+- <a href="https://photos.app.goo.gl/ZScsN8K8CQCUhxoW8" target="_blank">Grand canyon, AZ</a><br/>
+- <a href="https://photos.app.goo.gl/jvZTmhuXs79tYcFe7" target="_blank">Hoover Dam</a><br/>
 <br/><br/>
 
 ### California trip
