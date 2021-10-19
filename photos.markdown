@@ -4,6 +4,17 @@ title: Photos
 permalink: /photos/
 ---
 
+### Lake Superior Provincial Park, Oct. 2021
+- <a href="https://photos.app.goo.gl/ifbCeyDeNbb7jVAz8" target="_blank">Lake Superior Coastal Trail</a><br/>
+- <a href="https://photos.app.goo.gl/DB1GzoovBY9oWoDD8" target="_blank">Agawa falls</a><br/>
+- <a href="https://photos.app.goo.gl/qrVDWuBSvPPopmV68" target="_blank">Old woman bay</a><br/>
+- <a href="https://photos.app.goo.gl/NkYNzuwxExeLqS8k9" target="_blank">Bear</a><br/>
+
+### 2021
+- <a href="https://photos.app.goo.gl/X4FXi2AQaNWnkbZQA" target="_blank">Lion's head hike</a><br/>
+- <a href="https://photos.app.goo.gl/pLvABSTE8yrPZrpf9" target="_blank">Mont Tremblant hike</a><br/>
+- <a href="https://photos.app.goo.gl/C8a2Cu2nmupYFqRg8" target="_blank">Hawk's nest</a><br/>
+
 ### USA, November 2020
 - <a href="https://photos.app.goo.gl/Vv4EPaY3RmACKjyh9" target="_blank">Cottonwood mountains, Death Valley</a><br/>
 - <a href="https://photos.app.goo.gl/PExxN98G4iT31eZQ6" target="_blank">Darwin falls, Death Valley</a><br/>
