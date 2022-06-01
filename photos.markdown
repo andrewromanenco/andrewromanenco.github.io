@@ -4,6 +4,8 @@ title: Photos
 permalink: /photos/
 ---
 
+- <a href="https://photos.app.goo.gl/rF94qnnkXnMzBPJF7" target="_blank">Queen Elizabeth II Wildlands</a><br/>
+
 ### Lake Superior Provincial Park, Oct. 2021
 - <a href="https://photos.app.goo.gl/ifbCeyDeNbb7jVAz8" target="_blank">Lake Superior Coastal Trail</a><br/>
 - <a href="https://photos.app.goo.gl/DB1GzoovBY9oWoDD8" target="_blank">Agawa falls</a><br/>
