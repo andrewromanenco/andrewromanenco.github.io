@@ -4,6 +4,13 @@ title: Photos
 permalink: /photos/
 ---
 
+### New Brunswick and Nova Scotia, July 2022
+- <a href="https://photos.app.goo.gl/oUvUtBBpa6SMgJxD9" target="_blank">Cape Chignecto, NS</a><br/>
+- <a href="https://photos.app.goo.gl/PNsrNehnwM4QXB8X8" target="_blank">Moncton, NB</a><br/>
+- <a href="https://photos.app.goo.gl/DAgCRgGkdCsyyZFD6" target="_blank">Fredericton, NB</a><br/>
+- <a href="https://photos.app.goo.gl/qg9nGfm47drdfvBh9" target="_blank">Saint John</a><br/>
+<br/><br/>
+
 - <a href="https://photos.app.goo.gl/rF94qnnkXnMzBPJF7" target="_blank">Queen Elizabeth II Wildlands</a><br/>
 
 ### Lake Superior Provincial Park, Oct. 2021
