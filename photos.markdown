@@ -4,6 +4,8 @@ title: Photos
 permalink: /photos/
 ---
 
+- <a href="https://photos.app.goo.gl/XojXwucpbVUgLE859" target="_blank">Ironman 70.3 Muskoka, 2023</a><br/>
+
 ### New Brunswick and Nova Scotia, July 2022
 - <a href="https://photos.app.goo.gl/oUvUtBBpa6SMgJxD9" target="_blank">Cape Chignecto, NS</a><br/>
 - <a href="https://photos.app.goo.gl/PNsrNehnwM4QXB8X8" target="_blank">Moncton, NB</a><br/>
