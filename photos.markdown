@@ -4,6 +4,8 @@ title: Photos
 permalink: /photos/
 ---
 
+- <a href="https://photos.app.goo.gl/ZoG2jGUNG6cec5LU6" target="_blank">Ironman Maryland, 2023</a><br/>
+
 - <a href="https://photos.app.goo.gl/XojXwucpbVUgLE859" target="_blank">Ironman 70.3 Muskoka, 2023</a><br/>
 
 ### New Brunswick and Nova Scotia, July 2022
